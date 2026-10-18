@@ -1,0 +1,9 @@
+Thumbs.db
+desktop.ini
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+.env*
+!.env.example
